@@ -1,0 +1,31 @@
+.App {
+    display: flex;
+      justify-content: center;
+        align-items: center;
+          height: 100vh;
+            background-color: #282c34;
+              color: white;
+              }
+
+              #quote-box {
+                background: #444;
+                  padding: 2rem;
+                    border-radius: 10px;
+                      text-align: center;
+                      }
+
+                      #new-quote {
+                        background: #61dafb;
+                          border: none;
+                            padding: 0.5rem 1rem;
+                              margin-top: 1rem;
+                                cursor: pointer;
+                                  border-radius: 5px;
+                                  }
+
+                                  #tweet-quote {
+                                    display: block;
+                                      margin-top: 1rem;
+                                        color: #61dafb;
+                                        }
+
